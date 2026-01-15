@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1CEH1lA0OQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smart\\Desktop\\Task2\\Otus.Task1\\Otus.Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smart\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

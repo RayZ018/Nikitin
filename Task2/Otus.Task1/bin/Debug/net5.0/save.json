@@ -1,0 +1,21 @@
+{
+  "CreatedDate": "2026-01-16T00:57:24.1810281+07:00",
+  "SaveDate": null,
+  "FileName": "FinalSave",
+  "CurrentLocation": "Dungeon",
+  "User": {
+    "Level": 10,
+    "Name": "Пушкин",
+    "Gender": "m"
+  },
+  "Items": [
+    {
+      "Name": "Топор",
+      "Quantity": 1
+    },
+    {
+      "Name": "Зелье",
+      "Quantity": 5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<u xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2026-01-16T00:57:24.1810281+07:00</CreatedDate>
+  <SaveDate xsi:nil="true" />
+  <FileName>FinalSave</FileName>
+  <CurrentLocation>Dungeon</CurrentLocation>
+  <User level="10">
+    <Name>Пушкин</Name>
+    <Gender>m</Gender>
+    <Coords>15.0, 30.5</Coords>
+  </User>
+  <Items>
+    <Item>
+      <Name>Топор</Name>
+      <Quantity>1</Quantity>
+    </Item>
+    <Item>
+      <Name>Зелье</Name>
+      <Quantity>5</Quantity>
+    </Item>
+  </Items>
+</u>
