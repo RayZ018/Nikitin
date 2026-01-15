@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqW2Lld1NZo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smart\\Desktop\\Nikitin\\Otus.Serializer\\Otus.Serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\protobuf\\2.6.1.1\\protobuf.2.6.1.1.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\smart\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

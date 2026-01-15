@@ -1,0 +1,17 @@
+{
+  "CreatedDate": "0001-01-01T00:00:00",
+  "SaveDate": null,
+  "FileName": null,
+  "CurrentLocation": "Dungeon",
+  "User": {
+    "Level": 10,
+    "Name": "Пушкин",
+    "Gender": 1
+  },
+  "Items": [
+    {
+      "Name": "Топор",
+      "Quantity": 2
+    }
+  ]
+}
